@@ -1,5 +1,5 @@
 // This #include statement was automatically added by the Particle IDE.
-// Library that get Functions needed to get the humidity and 
+// Library that get Functions needed to get the humidity and temperature
 //temperature reading from the Sensors
 #include <Adafruit_DHT.h>
 
